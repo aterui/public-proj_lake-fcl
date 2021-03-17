@@ -1,0 +1,64 @@
+Ecosystem,Maximum trophic position,Top predator identity,Source of maximum trophic position estimate,Ecosystem volume (km^3),Ecosystem maximum depth (m),Source of volume or depth estimate,Total Phosphorus (ug/L),Source of Total Phosphorus estimate,Fish species richness,Source of fish species richness estimate
+Toolik Lake,2.94,Lake Trout,1,0.0106,,23,6,34,5,54
+Peter Lake,4.1,Lake Trout,2,,23.5,2,3,2,,
+Lake18,3.75,Northern Pike,3,,5.2,3,22,3,,
+Travaillant Lake,4.65,Lake Trout,3,,35,3,10,3,,
+Bow Lake,3.47,Mountain Whitefish,4,0.064,,4,4.6,4,,
+Kusawa Lake,4.52,Lake Trout,5,7.72,,24,3.6,24,10,24
+Fox Lake,4.13,Burbot,5,0.45,,24,7.4,24,7,24
+Laberge Lake,5,Lake Trout,5,11.1,,24,5.1,24,12,24
+Lake Winnipeg South Basin,3.41,Sauger,6,27,,25,117,35,57,55
+LLB20,3.99,Northern Pike,7,,5.8,7,47,7,2,7
+SPH200,3.79,Northern Pike,7,,9.5,7,40,7,2,7
+Armstrong Lake,4.89,Northern Pike,8,,4.5,8,43,8,5,8
+Lake Suwa,3.11,Wakasagi,9,,6.8,9,110,36,25,54
+MacDonald Lake (prior to bass introduction),3.55,Lake Trout,10,,40,26,4.8,37,11,11
+Happy Isle Lake,4,Smallmouth Bass,11,,39.6,27,4.71,38,6,11
+Source Lake,3.72,Lake Trout,11,,42.2,27,5,39,11,11
+Victoria Lake,4.22,Burbot,11,,45,26,6.59,38,13,11
+Clear Lake,4.07,Rock Bass,11,,43,26,4.3,40,11,11
+Opeongo Lake,4.15,Lake Trout,11,,50,26,8,41,19,11
+Rosseau Lake,4.46,Lake Trout,11,,90,26,5.375,42,27,11
+Twelve Mile Lake,4.31,Lake Trout,11,,24,26,6.67,43,,
+Smoke Lake,4.37,Lake Trout,11,,55,26,5,44,18,11
+Lac Memphremagog,4.55,Lake Trout,11,,117,26,10,45,25,11
+Temagami Lake,4.6,Lake Trout,11,,61,26,2,46,26,11
+Muskoka Lake,4.64,Lake Trout,11,,67,26,7.07,47,24,11
+Louisa Lake,4.86,Lake Trout,11,,61,26,3.4,40,13,11
+Bear Lake,3.89,Largemouth Bass,12,,10.8,28,28.2,28,,
+Black Lake,3.96,Walleye,12,,5,28,64.9,28,,
+Bull Lake,3.62,Largemouth Bass,12,,24.1,28,10.2,28,,
+Cayuga Lake,4.55,Lake Trout,12,,132.6,28,16.9,28,,
+Lake Champlain,4.85,Lake Trout,12,,122,28,12.1,28,81,56
+Chautauqua Lake,3.97,Largemouth Bass,12,,23,28,12.2,28,46,57
+Clear Lake,3.92,Largemouth Bass,12,,13.4,28,6.6,28,,
+Cross Lake,4.08,Largemouth Bass,12,,19.8,28,25.4,28,,
+Cuba Lake,3.35,Largemouth Bass,12,,6.1,28,15.1,28,,
+Lake Erie,4.39,Lake Trout,12,484,,29,5.5,28,107,58
+Honeoye Lake,4.26,Largemouth Bass,12,,9.2,28,36.6,28,,
+Hyde Lake,3.98,Northern Pike,12,,5.5,28,12.2,28,,
+Lake Kegonsa,4.04,Largemouth Bass,12,,10.2,28,89,28,,
+Keuka Lake,4.34,Lake Trout,12,,55.8,28,2.6,28,,
+Neatahwanta Lake,3.79,Largemouth Bass,12,,3.7,28,230,28,,
+Lake Ontario,5.02,Lake Trout,12,1640,,29,9,28,106,58
+Owasco Lake,4.14,Lake Trout,12,,54,28,6.6,28,,
+Raquette Lake,4.05,Lake Trout,12,,29.2,28,5.7,28,,
+Round Pond,3.73,Largemouth Bass,12,,9.5,28,18.5,28,,
+Silver Lake,3.97,Largemouth Bass,12,,11.3,28,23.5,28,,
+Spencer Lake,3.77,Largemouth Bass,12,,12.5,28,7.5,28,,
+Upton Lake,3.49,Largemouth Bass,12,,18,28,9.4,28,,
+Oneida Lake,4.25,Walleye,12,,16.8,28,26.8,28,75,59
+Lake Michigan,4.1,Burbot,13,4918,,29,5.5,48,116,58
+Stradsett Hall Lake,3.66,Northern Pike,14,,1.84,14,166,14,,
+Gunthorpe Hall Lake,3.66,Northern Pike,14,,2.45,14,65,14,,
+Bayfield Hall Lake,3.92,Northern Pike,14,,1.32,14,241,14,,
+Bluestone Plantation Lake,2.97,Common Rudd,14,,1.64,14,41,14,,
+Lake Roosevelt,3.88,Burbot,15,11.6,,30,6,49,20,49
+Lake Kasumigaura,4.43,Goby,16,0.84,,31,50,31,104,54
+Ryans 1 Billabong Lake,2.97,Gambusia,17,,2,17,350,50,,
+Lake Apopka,3.97,Garpike,18,,1.7,18,210,51,26,60
+Lake Coquiero,2.88,Characin,19,2.58,,32,237,32,95,19
+Lake Donghu,3.03,Bighead Carp,20,,4.5,20,402,52,38,61
+Lake 373,3.64,Lake Trout,21,,21.5,21,4.96,53,,
+Lake Mendota,3.94,Northern Pike,22,0.505,,33,32,33,36,54
+Lake Monona,4.1,Largemouth Bass,22,0.11,,33,34,33,27,54
